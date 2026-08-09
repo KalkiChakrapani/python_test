@@ -16,7 +16,7 @@ print('Test passed')
 
 print('Test failed')
 
-print('Test failed')
+print('Test failed again')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
