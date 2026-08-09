@@ -11,6 +11,11 @@ def in_autotests_we_trust(a, b):
 
 in_autotests_we_trust(10, '10')
 
+#test
+print('Test passed')
+
+print('Test failed')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 in_autotests_we_trust(0, False)
