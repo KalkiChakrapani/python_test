@@ -21,3 +21,4 @@ print('Test failed again')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 in_autotests_we_trust(0, False)
+
