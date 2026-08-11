@@ -10,6 +10,7 @@ def in_autotests_we_trust(a, b):
         print('Test failed')
 
 in_autotests_we_trust(10, '10')
+print('Test Z')
 
 #test
 print('Test passed')
